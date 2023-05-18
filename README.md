@@ -1,0 +1,2 @@
+# Python-3_mundo1-2-3
+ Repositório criado para armazenar e disponibilizar o histórico de aprendizagem no curso de **Python 3**, lecionado pelo professor Gustavo Guanabara na plataforma do Curso em Vídeo ([Mundo 1](https://www.cursoemvideo.com/curso/python-3-mundo-1/), [Mundo 2](https://www.cursoemvideo.com/curso/python-3-mundo-2/) e [Mundo 3](https://www.cursoemvideo.com/curso/python-3-mundo-3/)). Além disso, servirá para fins de incremento do meu portfólio como Desenvolvedora Back-end. 
