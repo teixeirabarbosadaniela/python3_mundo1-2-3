@@ -10,9 +10,11 @@ segundo = int(input('Segundo número'))
 soma = primeiro + segundo
 print('A soma é', soma)
 
-#deu errado ainda 1
-primeiro = int(input('Primeiro número'))
-segundo = int(input('Segundo número'))
+#deu errado no VSCode, mas deu certo na IDE do python (que é a proposta do exercício). Fiz uma busca por outras maneiras de resolver, onde as pessoas relataram ter dado certo. No entanto, seguiu dando errado no meu VSCode.
+#abaixo:
+
+primeiro = int(input('Primeiro número '))
+segundo = int(input('Segundo número '))
 primeiro = int(primeiro)
 segundo = int(segundo)
 soma = primeiro + segundo
@@ -33,7 +35,6 @@ b = int(input('Segundo número: '))
 soma = a + b
 print("A soma é", soma)
 
-
 n1 = input('Digite o primeiro número?')
 n2 = input('Digite o segundo número?')
 soma = int(n1) + int(n2)
@@ -44,4 +45,3 @@ n2 = input('Segundo número ')
 soma = int(n1) + int(n2)
 print ('A soma é', soma)
 
-desisto POR ENQUANTO! kk (guanabara não respondeu esse exercicio na aula seguinte)
