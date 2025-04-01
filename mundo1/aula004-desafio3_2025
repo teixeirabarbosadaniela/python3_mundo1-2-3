@@ -1,47 +1,7 @@
 #Crie um script python que leia dois números e tente mostrar a soma entre eles
-#minha primeira tentativa
-primeiro=input('Primeiro número')
-segundo=input('Segundo número')
-print('A soma é', primeiro + segundo)
 
-#minha segunda tentativa após pesquisa sugerida pelo prof
 primeiro = int(input('Primeiro número'))
 segundo = int(input('Segundo número'))
 soma = primeiro + segundo
 print('A soma é', soma)
-
-#deu errado no VSCode, mas deu certo na IDE do python (que é a proposta do exercício). Fiz uma busca por outras maneiras de resolver, onde as pessoas relataram ter dado certo. No entanto, seguiu dando errado no meu VSCode.
-#abaixo:
-
-primeiro = int(input('Primeiro número '))
-segundo = int(input('Segundo número '))
-primeiro = int(primeiro)
-segundo = int(segundo)
-soma = primeiro + segundo
-print('A soma é', soma)
-
-#deu errado ainda 2
-primeiro = int(input('Primeiro número'))
-segundo = int(input('Segundo número'))
-print('A soma é', primeiro + segundo)
-
-num1 = input('Primeiro número: ')
-num2 = input('Segundo número: ')
-soma = int(num1)+int(num2)
-print('O resultado da soma dos números anteriores é igual a: ',soma)
-
-a = int(input('Primeiro número:'))
-b = int(input('Segundo número: '))
-soma = a + b
-print("A soma é", soma)
-
-n1 = input('Digite o primeiro número?')
-n2 = input('Digite o segundo número?')
-soma = int(n1) + int(n2)
-print ('A soma é ', soma)
-
-n1 = input('Primeiro número ')
-n2 = input('Segundo número ')
-soma = int(n1) + int(n2)
-print ('A soma é', soma)
 
