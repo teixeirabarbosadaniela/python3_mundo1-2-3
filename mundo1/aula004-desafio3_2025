@@ -5,3 +5,4 @@ segundo = int(input('Segundo número'))
 soma = primeiro + segundo
 print('A soma é', soma)
 
+#guanabara resolve na aula 06
