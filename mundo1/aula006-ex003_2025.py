@@ -1,11 +1,5 @@
-#desafio extra
-#minha tentativa
-n1 = int(input('Digite um número: '))
-n2 = int(input('Digite outro número: '))
-s = n1+n2
-#print('A soma entre ', n1, ' e ', n2, ' vale ', s, '.')
-print('A soma entre {0} e {1} vale {2}.'.format(n1, n2, s))
-
-#outros métodos
-#n = input('Digite algo: ')
-#print(n.is______)
+#Crie um programa que leia dois números e mostre a soma entre eles.
+n1 = int(input('Escreva um número inteiro: '))
+n2 = int(input('Agora, escreva outro número inteito: '))
+soma = n1+n2
+print('Assim, temos que {} mais {} resulta no número {}. Correto?'.format(n1, n2, soma))
